@@ -17,7 +17,7 @@ The portfolio presents my personal information, skills, and projects in a clean 
 - CSS
 
 ## Live Demo
-https://mellow-biscuit-da1c47.netlify.app
+https://app.netlify.com/projects/warm-squirrel-072958/overview
 
 ## Author
 Maneesha kondraveedi
